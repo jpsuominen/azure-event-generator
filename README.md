@@ -1,4 +1,4 @@
-# azureutlis
+# azureutils
 A collection of Python tools to interact with Azure
 
 ## azure-event-generator
